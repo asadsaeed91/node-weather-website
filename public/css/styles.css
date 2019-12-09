@@ -1,0 +1,25 @@
+header {
+    color: #999991;
+    margin: 16px;
+}
+
+header a{
+    margin: 26px auto;
+}
+
+.main-content {
+    margin: 16px;
+}
+
+footer{
+    color: #999991;
+    margin: 16px;
+}
+
+form{
+    margin: 16px auto;
+}
+img {
+    width: 250px;
+    margin: 16px;
+}
